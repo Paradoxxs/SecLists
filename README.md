@@ -1,5 +1,7 @@
 ![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png")
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6e1d632d-b874-4fea-a07e-e86b8a5f3376.svg?orgId=405986230211)](https://app.soluble.cloud/repos/details/github.com/paradoxxs/seclists?orgId=405986230211)  
+
 ### About SecLists
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
